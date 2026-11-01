@@ -1,3 +1,5 @@
+![Jatin Animated Profile](./jatin_github_profile.gif)
+
 # 👋 Hi, I'm Jatin Kumar
 
 ### Software Engineer | Java Backend Developer | Full-Stack Developer
